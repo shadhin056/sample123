@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C
+=======
+A
+>>>>>>> parent of 8df5279... b added
