@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C
 =======
 A
 >>>>>>> parent of 8df5279... b added
+=======
+B
+>>>>>>> parent of a26f0e3... c added
