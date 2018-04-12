@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C
+=======
+A
+>>>>>>> parent of b9fa4d8... B
